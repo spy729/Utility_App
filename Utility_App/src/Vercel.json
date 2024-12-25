@@ -1,0 +1,33 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/login"
+        },
+        {
+            "src": "/login",
+            "dest": "/login"
+        },
+        {
+            "src": "/signup",
+            "dest": "/signup"
+        },
+        {
+            "src": "/dashboard",
+            "dest": "/dashboard"
+        },
+        {
+            "src": "/inventory",
+            "dest": "/inventory"
+        },
+        {
+            "src": "/expenses",
+            "dest": "/expenses"
+        },
+        {
+            "src": "/todo",
+            "dest": "/todo"
+        }
+        
+    ]
+}
